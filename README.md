@@ -34,7 +34,7 @@ README.md                         |  Text file (markdown format) description of 
 Academic Papers ('paper' folder for each project)
 
 project | title                                                 |  author                             |        year
-----------------------------------------------------------------|-------------------------------------|-----------------
+--------|-------------------------------------------------------|-------------------------------------|-----------------
 Medical | Computer Vision in Healthcare Applications            | Junfeng Gao, et al.                 | 2017
 Medical | Deep Learning in Medical Image Analysis               | Dinggang Shen, et al.               | 2017
 Medical | Deep Learning in Medical Imaging: General Overview    | June-Goo Lee, et al.                | 2017
