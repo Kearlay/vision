@@ -30,7 +30,7 @@ Non-Python files and Directories:
 filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
 README.md                         |  Text file (markdown format) description of the project.
-Deep-CNN/Paper                    |  Academic papers refered to for this project
+Paper                             |  Academic papers refered to for this project
 
 Python scripts files:
 
