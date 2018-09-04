@@ -25,18 +25,24 @@ Dependencies
 Description of files
 --------------------
 
-Non-Python files and Directories:
+Non-Python files:
 
 filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
 README.md                         |  Text file (markdown format) description of the project.
-Paper                             |  Academic papers refered to for this project
 
-Academic Papers
+Academic Papers ('paper' folder for each project)
 
 title                                                 |  author                             |        year
 ------------------------------------------------------|-------------------------------------|---------------------------
 Computer Vision in Healthcare Applications            | Junfeng Gao, et al.                 | 2017
+Deep Learning in Medical Image Analysis               | Dinggang Shen, et al.               | 2017
+Deep Learning in Medical Imaging: General Overview    | June-Goo Lee, et al.                | 2017
+Hello World Deep Learning in Medical Imaging          | Paras Lakhani                       | 2018
+Overview of deep learning in medical imaging          | Kenji Suzuki                        | 2017
+
+
+
 
 Python scripts files:
 
