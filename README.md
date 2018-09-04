@@ -15,23 +15,8 @@ Our directories consist of three different projects:
 
 Those data and benchmarks are available in public for the purpose of research and downloaded without any personal contact. Please contact the original publishers or writers if you would want to enquire about the license status. 
 
-Dependencies
+Acamdemic Papers
 ------------
-
-- All code is written in Python 3.
-- Some code depends on the 'numpy', 'matplotlib', or 'pandas' library
-
-
-Description of files
---------------------
-
-Non-Python files:
-
-filename                          |  description
-----------------------------------|------------------------------------------------------------------------------------
-README.md                         |  Text file (markdown format) description of the project.
-
-Academic Papers ('paper' folder for each project)
 
 project | title                                                 |  author                             |        year
 --------|-------------------------------------------------------|-------------------------------------|-----------------
@@ -41,8 +26,16 @@ Medical | Deep Learning in Medical Imaging: General Overview    | June-Goo Lee, 
 Medical | Hello World Deep Learning in Medical Imaging          | Paras Lakhani                       | 2018
 Medical | Overview of deep learning in medical imaging          | Kenji Suzuki                        | 2017
 
+Description of files
+--------------------
 
+- All code is written in python3
 
+Non-Python files:
+
+filename                          |  description
+----------------------------------|------------------------------------------------------------------------------------
+README.md                         |  Text file (markdown format) description of the project.
 
 Python scripts files:
 
