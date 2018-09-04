@@ -20,11 +20,19 @@ Acamdemic Papers
 
 project | title                                                 |  author                             |        year
 --------|-------------------------------------------------------|-------------------------------------|-----------------
-Medical | Computer Vision in Healthcare Applications            | Junfeng Gao, et al.                 | 2017
-Medical | Deep Learning in Medical Image Analysis               | Dinggang Shen, et al.               | 2017
-Medical | Deep Learning in Medical Imaging: General Overview    | June-Goo Lee, et al.                | 2017
-Medical | Hello World Deep Learning in Medical Imaging          | Paras Lakhani                       | 2018
-Medical | Overview of deep learning in medical imaging          | Kenji Suzuki                        | 2017
+Med/Vis | Computer Vision in Healthcare Applications            | Junfeng Gao, et al.                 | 2017
+Med     | Deep Learning in Medical Image Analysis               | Dinggang Shen, et al.               | 2017
+Med     | Deep Learning in Medical Imaging: General Overview    | June-Goo Lee, et al.                | 2017
+Med     | Hello World Deep Learning in Medical Imaging          | Paras Lakhani                       | 2018
+Med     | Overview of deep learning in medical imaging          | Kenji Suzuki                        | 2017
+Med     | Automated analysis of retinal imaging using machine learning techniques for computer vision          | De Fauw, J. et al.                        | 2017
+Med     | Overview of deep learning in medical imaging          | Kenji Suzuki                        | 2017
+Med     | Overview of deep learning in medical imaging          | Kenji Suzuki                        | 2017
+Vis/Med | Overview of deep learning in medical imaging          | Kenji Suzuki                        | 2017
+Vis/Med | Overview of deep learning in medical imaging          | Kenji Suzuki                        | 2017
+Vis     | Overview of deep learning in medical imaging          | Kenji Suzuki                        | 2017
+Vis     | Overview of deep learning in medical imaging          | Kenji Suzuki                        | 2017
+Vis     | Overview of deep learning in medical imaging          | Kenji Suzuki                        | 2017
 
 Description of files
 --------------------
