@@ -32,6 +32,12 @@ filename                          |  description
 README.md                         |  Text file (markdown format) description of the project.
 Paper                             |  Academic papers refered to for this project
 
+Academic Papers
+
+title                                                 |  author                             |        year
+------------------------------------------------------|-------------------------------------|---------------------------
+Computer Vision in Healthcare Applications            | Junfeng Gao, et al.                 | 2017
+
 Python scripts files:
 
 filename                          |  description
