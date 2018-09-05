@@ -47,12 +47,3 @@ Python scripts files:
 
 filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
-fetch_oeis_database.py            |  Fetch and refresh data from the remote OEIS database to a local sqlite3 database.
-
-Python modules:
-
-filename                          |  description
-----------------------------------|------------------------------------------------------------------------------------
-fraction_based_linear_algebra.py  |  Perform matrix inversion without loss of precision using the Fraction type.
-
-
