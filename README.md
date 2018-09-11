@@ -11,7 +11,7 @@ The goal of this project was to build machine learning and computer vision model
 
 This project has used openly licensed Planet satellite images collected over the San Francisco Bay area, and provided by a Kaggle user
 
-(1) rhammel @ https://www.kaggle.com/rhammell/ships-in-satellite-imagery/data
+(1) rhammel @ https://www.kaggle.com/rhammell/ships-in-satellite-imagery/data  
 (2) Planet Labs, Inc. (Earth imaging company): https://www.planet.com/products/open-california/
 
 Acamdemic Papers
