@@ -14,7 +14,7 @@ This project has used openly licensed Planet satellite images collected over the
 (1) rhammel @ https://www.kaggle.com/rhammell/ships-in-satellite-imagery/data  
 (2) Planet Labs, Inc. (Earth imaging company): https://www.planet.com/products/open-california/
 
-Acamdemic Papers
+Acamdemic Reference
 ------------
 
 project | title                                                 |  author                             |        year
