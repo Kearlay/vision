@@ -7,13 +7,12 @@ the state-of-the-art computer vision application. Collaborated with researchers 
 Overview
 --------
 
-Our directories consist of three different projects:
+The goal of this project was to build machine learning and computer vision models to help automate the process of classification and ships identification in multispectral satellite images. In this project, I processed and analyzed high-resolution raster dataset, built convolutional neural network (CNN) models (Grayscale input and RGB input) and deployed it in AWS.
 
-1. Deep-CNN: an attempt to apply transfer learning with pre-trained CNN sets to outperform OpenCV ready-made algorithms
-2. Image-Caption: useful resources and benchmarks regarding image captioning
-3. Medical-Vision: an application of computer vision to the medical imaging technology
+This project has used openly licensed Planet satellite images collected over the San Francisco Bay area, and provided by a Kaggle user
 
-Those data and benchmarks are available in public for the purpose of research and downloaded without any personal contact. Please contact the original publishers or writers if you would want to enquire about the license status. 
+(1) rhammel @ https://www.kaggle.com/rhammell/ships-in-satellite-imagery/data
+(2) Planet Labs, Inc. (Earth imaging company): https://www.planet.com/products/open-california/
 
 Acamdemic Papers
 ------------
