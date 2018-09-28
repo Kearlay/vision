@@ -47,3 +47,4 @@ Python scripts files:
 filename                          |  description
 ----------------------------------|------------------------------------------------------------------------------------
 detection.ipynb                   | The main script for ship detection problem
+prediction.ipynb                  | The evaluation of ship detection model
